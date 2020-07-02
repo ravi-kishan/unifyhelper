@@ -1,0 +1,24 @@
+{
+  "name": "unifyhelper",
+  "version": "1.0.8",
+  "main": "index.js",
+  "bin": {
+    "unifyhelper": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "mocha": "^8.0.1",
+    "semver": "^7.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravi-kishan/unifyhelper.git"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6"
+  }
+}
